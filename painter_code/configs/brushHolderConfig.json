@@ -1,0 +1,79 @@
+[
+    {
+        "index":0,
+        "colorIdx":0,
+        "brushes":[
+            {"size":14.0, "holderSlotIndex":0},
+            {"size":11.0, "holderSlotIndex":1},
+            {"size":6.0, "holderSlotIndex":2}
+            
+        ],
+        "x":131.3,
+        "y":75.98
+    },
+    {
+        "index":1,
+        "colorIdx":0,
+        "brushes":[
+            {"size":14.0, "holderSlotIndex":0},
+            {"size":11.0, "holderSlotIndex":1},
+            {"size":6.0, "holderSlotIndex":2}
+            
+        ],
+        "x":247.3,
+        "y":75.98
+    },
+    {
+        "index":2,
+        "colorIdx":0,
+        "brushes":[
+            {"size":14.0, "holderSlotIndex":0},
+            {"size":11.0, "holderSlotIndex":1},
+            {"size":6.0, "holderSlotIndex":2}
+            
+        ],
+        "x":364.3,
+        "y":75.98
+    },
+    {
+        "index":3,
+        "colorIdx":0,
+        "brushes":[
+            {"size":14.0, "holderSlotIndex":0},
+            {"size":11.0, "holderSlotIndex":1},
+            {"size":6.0, "holderSlotIndex":2}
+            
+        ],
+        "x":481.8,
+        "y":75.98
+    },
+    {
+        "index":4,
+        "colorIdx":0,
+        "brushes":[
+            {"size":14.0, "holderSlotIndex":0},
+            {"size":11.0, "holderSlotIndex":1},
+            {"size":6.0, "holderSlotIndex":2}
+            
+        ],
+        "x":598.9,
+        "y":75.98
+
+
+    },
+    {
+        "index":5,
+        "colorIdx":0,
+        "brushes":[
+            {"size":14.0, "holderSlotIndex":0},
+            {"size":11.0, "holderSlotIndex":1},
+            {"size":6.0, "holderSlotIndex":2}
+            
+        ],
+        "x":715.8,
+        "y":75.98
+    }
+    
+
+    
+]

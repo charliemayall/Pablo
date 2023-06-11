@@ -1,0 +1,638 @@
+[{
+  "x": null,
+  "y": 300,
+  "z": -45,
+  "f": 10000,
+  "flags": ["required", "brushChange", "pickup"],
+  "commandType": "G1"
+}, {
+  "x": null,
+  "y": null,
+  "z": 0,
+  "f": 10000,
+  "flags": ["required", "brushChange", "pickup", "required", "brushChange", "pickup", "required", "brushChange", "drop", "required", "brushChange", "drop"],
+  "commandType": "G1"
+}, {
+  "x": 186.0,
+  "y": 183.0,
+  "z": null,
+  "f": 10000,
+  "flags": ["required", "brushChange", "pickup", "required", "brushChange", "pickup", "required", "brushChange", "drop"],
+  "commandType": "G1"
+}, {
+  "x": 221.60000000000002,
+  "y": 113,
+  "z": null,
+  "f": 10000,
+  "flags": ["required", "brushChange", "pickup"],
+  "commandType": "G1"
+}, {
+  "x": null,
+  "y": null,
+  "z": -45.16,
+  "f": 10000,
+  "flags": ["required", "brushChange", "pickup", "required", "brushChange", "drop"],
+  "commandType": "G1"
+}, {
+  "x": 221.60000000000002,
+  "y": 77.75,
+  "z": null,
+  "f": 2000,
+  "flags": ["required", "brushChange", "pickup"],
+  "commandType": "G1"
+}, {
+  "x": 234.60000000000002,
+  "y": 77.75,
+  "z": null,
+  "f": 2000,
+  "flags": ["required", "brushChange", "pickup"],
+  "commandType": "G1"
+}, {
+  "x": null,
+  "y": 98,
+  "z": null,
+  "f": 2000,
+  "flags": ["required", "brushChange", "pickup"],
+  "commandType": "G1"
+}, {
+  "x": 234.60000000000002,
+  "y": 113,
+  "z": null,
+  "f": 10000,
+  "flags": ["required", "brushChange", "pickup", "required", "brushChange", "drop"],
+  "commandType": "G1"
+}, {
+  "x": null,
+  "y": null,
+  "z": 0,
+  "f": 10000,
+  "flags": ["required", "brushChange", "pickup", "required", "brushChange", "pickup", "required", "brushChange", "drop", "required", "brushChange", "drop"],
+  "commandType": "G1"
+}, {
+  "x": 186.0,
+  "y": 183.0,
+  "z": null,
+  "f": 10000,
+  "flags": ["required", "brushChange", "pickup", "required", "brushChange", "pickup", "required", "brushChange", "drop"],
+  "commandType": "G1"
+}, {
+  "x": null,
+  "y": null,
+  "z": -1,
+  "f": 10000,
+  "flags": ["required", "paintPot"],
+  "commandType": "G1"
+}, {
+  "x": 186.0,
+  "y": 293.0,
+  "z": null,
+  "f": 10000,
+  "flags": ["required", "paintPot"],
+  "commandType": "G1"
+}, {
+  "x": 186.0,
+  "y": 183.0,
+  "z": -1,
+  "f": 10000,
+  "flags": ["required", "paintPot"],
+  "commandType": "G1"
+}, {
+  "x": null,
+  "y": null,
+  "z": -13,
+  "f": 10000,
+  "flags": ["required", "paintPot"],
+  "commandType": "G1"
+}, {
+  "x": null,
+  "y": null,
+  "z": -43,
+  "f": 10000,
+  "flags": ["required", "paintPot"],
+  "commandType": "G1"
+}, {
+  "x": 186.0,
+  "y": 183.0,
+  "z": null,
+  "f": 10000,
+  "flags": ["required", "paintPot"],
+  "commandType": "G1"
+}, {
+  "x": null,
+  "y": null,
+  "z": -1,
+  "f": 10000,
+  "flags": ["required", "paintPot"],
+  "commandType": "G1"
+}, {
+  "x": 186.0,
+  "y": 293.0,
+  "z": null,
+  "f": 10000,
+  "flags": ["required", "paintPot"],
+  "commandType": "G1"
+}, {
+  "x": null,
+  "y": null,
+  "z": 0,
+  "f": 10000,
+  "flags": ["adapter", "lift"],
+  "commandType": "G1"
+}, {
+  "x": null,
+  "y": null,
+  "z": 0,
+  "f": 10000,
+  "flags": ["contact"],
+  "commandType": "G1"
+}, {
+  "x": null,
+  "y": null,
+  "z": 0,
+  "f": 10000,
+  "flags": ["contact"],
+  "commandType": "G1"
+}, {
+  "x": 289.014,
+  "y": 857.424,
+  "z": 0,
+  "f": 10000,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 289.014,
+  "y": 857.424,
+  "z": -59.0,
+  "f": 0,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 289.38,
+  "y": 857.424,
+  "z": -58.333,
+  "f": 0,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 289.38,
+  "y": 857.79,
+  "z": -58.333,
+  "f": 0,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 289.38,
+  "y": 858.156,
+  "z": -58.333,
+  "f": 5196,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 289.38,
+  "y": 858.5219999999999,
+  "z": -58.333,
+  "f": 4123,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 289.38,
+  "y": 858.889,
+  "z": -58.352,
+  "f": 3333,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 289.38,
+  "y": 859.255,
+  "z": -58.383,
+  "f": 3198,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 289.38,
+  "y": 859.621,
+  "z": -58.41,
+  "f": 3130,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 289.38,
+  "y": 859.621,
+  "z": -58.452,
+  "f": 2942,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 289.38,
+  "y": 859.9870000000001,
+  "z": -58.505,
+  "f": 2037,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 289.746,
+  "y": 859.9870000000001,
+  "z": -58.493,
+  "f": 1872,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 290.112,
+  "y": 859.9870000000001,
+  "z": -58.545,
+  "f": 1280,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 291.211,
+  "y": 859.9870000000001,
+  "z": -58.502,
+  "f": 1257,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 292.676,
+  "y": 859.9870000000001,
+  "z": -58.423,
+  "f": 2626,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 294.507,
+  "y": 859.9870000000001,
+  "z": -58.371,
+  "f": 5342,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 296.704,
+  "y": 859.621,
+  "z": -58.289,
+  "f": 8563,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 299.268,
+  "y": 858.889,
+  "z": -58.215,
+  "f": 12367,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 301.465,
+  "y": 858.156,
+  "z": -58.162,
+  "f": 14000,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 303.296,
+  "y": 857.424,
+  "z": -58.106,
+  "f": 14000,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 304.761,
+  "y": 856.325,
+  "z": -58.101,
+  "f": 14000,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 305.127,
+  "y": 854.86,
+  "z": -58.049,
+  "f": 14000,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 305.127,
+  "y": 853.029,
+  "z": -58.124,
+  "f": 14000,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 304.761,
+  "y": 851.198,
+  "z": -58.253,
+  "f": 14000,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 304.028,
+  "y": 849.001,
+  "z": -58.34,
+  "f": 14000,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 302.563,
+  "y": 847.1700000000001,
+  "z": -58.482,
+  "f": 14000,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 301.465,
+  "y": 844.606,
+  "z": -58.592,
+  "f": 14000,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 300.732,
+  "y": 842.409,
+  "z": -58.707,
+  "f": 14000,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 300.0,
+  "y": 839.846,
+  "z": -58.776,
+  "f": 14000,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 300.0,
+  "y": 836.9159999999999,
+  "z": -58.681,
+  "f": 14000,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 300.0,
+  "y": 833.62,
+  "z": -58.694,
+  "f": 14000,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 300.0,
+  "y": 831.789,
+  "z": -58.636,
+  "f": 14000,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 300.0,
+  "y": 829.592,
+  "z": -58.62,
+  "f": 14000,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 300.366,
+  "y": 825.197,
+  "z": -58.537,
+  "f": 14000,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 300.732,
+  "y": 821.5350000000001,
+  "z": -58.468,
+  "f": 14000,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 301.099,
+  "y": 818.239,
+  "z": -58.403,
+  "f": 14000,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 301.465,
+  "y": 815.31,
+  "z": -58.338,
+  "f": 14000,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 301.831,
+  "y": 813.479,
+  "z": -58.337,
+  "f": 14000,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 302.197,
+  "y": 811.6469999999999,
+  "z": -58.334,
+  "f": 14000,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 302.563,
+  "y": 810.183,
+  "z": -58.401,
+  "f": 14000,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 304.028,
+  "y": 809.0840000000001,
+  "z": -58.424,
+  "f": 14000,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 306.226,
+  "y": 808.7180000000001,
+  "z": -58.492,
+  "f": 13490,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 309.155,
+  "y": 808.7180000000001,
+  "z": -58.504,
+  "f": 9794,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 312.817,
+  "y": 810.183,
+  "z": -58.525,
+  "f": 12067,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 317.578,
+  "y": 813.845,
+  "z": -58.472,
+  "f": 14000,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 322.339,
+  "y": 818.972,
+  "z": -58.417,
+  "f": 14000,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 326.733,
+  "y": 824.0989999999999,
+  "z": -58.349,
+  "f": 14000,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": null,
+  "y": null,
+  "z": -1,
+  "f": 10000,
+  "flags": ["required", "paintPot"],
+  "commandType": "G1"
+}, {
+  "x": 186.0,
+  "y": 293.0,
+  "z": null,
+  "f": 10000,
+  "flags": ["required", "paintPot"],
+  "commandType": "G1"
+}, {
+  "x": 186.0,
+  "y": 183.0,
+  "z": -1,
+  "f": 10000,
+  "flags": ["required", "paintPot"],
+  "commandType": "G1"
+}, {
+  "x": null,
+  "y": null,
+  "z": -13,
+  "f": 10000,
+  "flags": ["required", "paintPot"],
+  "commandType": "G1"
+}, {
+  "x": null,
+  "y": null,
+  "z": -43,
+  "f": 10000,
+  "flags": ["required", "paintPot"],
+  "commandType": "G1"
+}, {
+  "x": 186.0,
+  "y": 183.0,
+  "z": null,
+  "f": 10000,
+  "flags": ["required", "paintPot"],
+  "commandType": "G1"
+}, {
+  "x": null,
+  "y": null,
+  "z": -1,
+  "f": 10000,
+  "flags": ["required", "paintPot"],
+  "commandType": "G1"
+}, {
+  "x": 186.0,
+  "y": 293.0,
+  "z": null,
+  "f": 10000,
+  "flags": ["required", "paintPot"],
+  "commandType": "G1"
+}, {
+  "x": 330.762,
+  "y": 828.4929999999999,
+  "z": 0,
+  "f": 10000,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 330.762,
+  "y": 828.4929999999999,
+  "z": -58.284,
+  "f": 14000,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 333.691,
+  "y": 831.423,
+  "z": -58.19,
+  "f": 14000,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 334.79,
+  "y": 831.789,
+  "z": -58.119,
+  "f": 14000,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 335.889,
+  "y": 831.057,
+  "z": -58.163,
+  "f": 14000,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 337.354,
+  "y": 829.226,
+  "z": -58.185,
+  "f": 14000,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 339.185,
+  "y": 827.028,
+  "z": -58.206,
+  "f": 14000,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 341.748,
+  "y": 824.4649999999999,
+  "z": -58.188,
+  "f": 10469,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 345.044,
+  "y": 821.169,
+  "z": -58.188,
+  "f": 14000,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 349.438,
+  "y": 817.1410000000001,
+  "z": -58.39,
+  "f": 14000,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 354.932,
+  "y": 812.746,
+  "z": -58.584,
+  "f": 14000,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 361.523,
+  "y": 807.619,
+  "z": -58.691,
+  "f": 14000,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": 364.819,
+  "y": 805.056,
+  "z": -58.804,
+  "f": 14000,
+  "flags": ["contact", "mirrorOnY", "adapter"],
+  "commandType": "G1"
+}, {
+  "x": null,
+  "y": null,
+  "z": 0,
+  "f": 10000,
+  "flags": ["adapter", "lift"],
+  "commandType": "G1"
+}]
