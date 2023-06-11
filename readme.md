@@ -1,7 +1,7 @@
 
 # Pablo - CNC Painting Robot
 
-![Architecture](./../assets/arch.png)
+![Architecture](https://github.com/charliemayall28/Pablo/blob/f071e4163d11fea55131712ccda472d6e853b10b/assets/arch.png)
 
 
 ## Overview
@@ -21,5 +21,5 @@ In short, the code in this repository does the following:
 - Writes the GCode through a serial connection to GRBL on the Arduino.
 
 
-![Pablo](./../assets/pablo-full.jpeg)
-![Pablo](./../assets/pablo-pic.jpeg) 
+![Pablo](https://github.com/charliemayall28/Pablo/blob/f071e4163d11fea55131712ccda472d6e853b10b/assets/pablo-full.jpeg)
+![Pablo](https://github.com/charliemayall28/Pablo/blob/f071e4163d11fea55131712ccda472d6e853b10b/assets/pablo-pic.jpeg)
